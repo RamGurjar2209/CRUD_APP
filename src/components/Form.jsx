@@ -61,6 +61,7 @@ const Form = () => {
                 />
 
                 <input type="text"
+                required
                     placeholder="Enter Description..."
                     className="form-control py-lg-2 me-3 shadow-sm"
                     name="description" onChange={handleChange} value={description}
