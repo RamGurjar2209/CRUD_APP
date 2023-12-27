@@ -1,6 +1,6 @@
 import React from 'react'
-import Form from './components/form'
 import ListGroup from './components/ListGroup'
+import Form from './components/Form'
 
 const App = () => {
   return (
